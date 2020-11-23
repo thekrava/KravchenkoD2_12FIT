@@ -1,6 +1,6 @@
 # University_OOP_LB2
 
-LB2
+Laboratory work №2
 
 Лабораторная работа № 2 по ООП
 
